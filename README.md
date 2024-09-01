@@ -25,9 +25,9 @@
 <sup>2</sup> Northwestern Polytechnical University, <sup>4</sup>Intellifusion  <br><br>
                                                                                        
 
-This repository contains the official implementation of [OVA-DETR](https://arxiv.org/abs/2408.12246)
+This repository contains the official implementation of [OVA-DETR](https://arxiv.org/abs/2408.12246)  <br>
 
-
+**[OVA-DETR: Open Vocabulary Aerial Object Detection Using Image-Text Alignment and Fusion](https://arxiv.org/abs/2408.12246)**
 
 ## Partial results
 
