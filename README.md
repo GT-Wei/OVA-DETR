@@ -1,6 +1,8 @@
-#                            OVA-DETR
+<div style="text-align: center;">
+  <h1 style="font-size: 48px; margin: 0;">OVA-DETR</h1>
+  <p style="font-size: 24px; margin: 0;">Open Vocabulary Aerial Object Detection Using Image-Text Alignment and Fusion</p>
+</div>
 
-### Open Vocabulary Aerial Object Detection Using Image-Text Alignment and Fusion
 <div align="center">
 <br>
 <a href="https://arxiv.org/search/cs?searchtype=author&query=Wei,+G">Guoting Wei</a><sup><span>1,4,*</span></sup>, 
