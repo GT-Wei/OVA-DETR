@@ -1,6 +1,6 @@
 <div style="text-align: center;">
   <h1 style="font-size: 48px; margin: 0;">OVA-DETR</h1>
-  <p style="font-size: 24px; margin: 0;">Open Vocabulary Aerial Object Detection Using Image-Text Alignment and Fusion</p>
+  <p style="font-size: 36px; margin: 0;">Open Vocabulary Aerial Object Detection Using Image-Text Alignment and Fusion</p>
 </div>
 
 <div align="center">
