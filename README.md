@@ -1,7 +1,9 @@
 <div style="text-align: center;">
   <h1 style="font-size: 48px; margin: 0;">OVA-DETR</h1>
 </div>
-## Open Vocabulary Aerial Object Detection Using Image-Text Alignment and Fusion
+This repository contains the official implementation of [OVA-DETR](https://arxiv.org/abs/2408.12246)  <br>
+
+**[OVA-DETR: Open Vocabulary Aerial Object Detection Using Image-Text Alignment and Fusion](https://arxiv.org/abs/2408.12246)**
 
 <div align="center">
 <br>
@@ -24,10 +26,6 @@
 
 <sup>2</sup> Northwestern Polytechnical University, <sup>4</sup>Intellifusion  <br><br>
                                                                                        
-
-This repository contains the official implementation of [OVA-DETR](https://arxiv.org/abs/2408.12246)  <br>
-
-**[OVA-DETR: Open Vocabulary Aerial Object Detection Using Image-Text Alignment and Fusion](https://arxiv.org/abs/2408.12246)**
 
 ## Partial results
 
