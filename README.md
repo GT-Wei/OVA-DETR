@@ -1,7 +1,3 @@
-<p>
-This repository contains the official implementation of <a href="https://arxiv.org/abs/2408.12246">OVA-DETR</a>
-</p>
-
 <h2 align="center"><a href="https://arxiv.org/abs/2408.12246">OVA-DETR: Open Vocabulary Aerial Object Detection Using Image-Text Alignment and Fusion</a></h2>
 
 <p align="center">
@@ -26,6 +22,10 @@ This repository contains the official implementation of <a href="https://arxiv.o
 <sup>2</sup> Northwestern Polytechnical University, <sup>4</sup> Intellifusion<br><br>
 </p>
        
+<!-- <p>
+This repository contains the official implementation of <a href="https://arxiv.org/abs/2408.12246">OVA-DETR</a>
+</p> -->
+
 
 ## Partial results
 
