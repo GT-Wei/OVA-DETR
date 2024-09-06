@@ -1,5 +1,3 @@
-<h1 align="center">OVA-DETR</h1>
-
 <p>
 This repository contains the official implementation of <a href="https://arxiv.org/abs/2408.12246">OVA-DETR</a>
 </p>
