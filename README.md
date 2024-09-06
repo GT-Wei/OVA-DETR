@@ -88,7 +88,7 @@ eg: CUDA_VISIBLE_DEVICES=0,1,2,3 ./tools/dist_train.sh configs/OVA_DETR/OVA_DETR
 eg: CUDA_VISIBLE_DEVICES=0,1,2,3 ./tools/dist_test.sh configs/OVA_DETR/OVA_DETR_4xb4-80e_dior_dota_xview.py ./pretrain_model/epoch30.pt 4
 ```
 
-# Acknowledgement
+## Acknowledgement
 We are grateful to the contributors for their crucial integration of RT-DETR into the mmdetection framework. We implemented OVA-DETR based on their shared resources available at [mmdetection](https://github.com/flytocc/mmdetection).
 
 ```
