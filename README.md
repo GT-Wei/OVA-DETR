@@ -14,6 +14,7 @@ This repository contains the official implementation of [OVA-DETR](https://arxiv
 <a href="https://arxiv.org/search/cs?searchtype=author&query=Yao,+K">Kelu Yao</a><sup><span>3</span></sup>,
 <a href="https://arxiv.org/search/cs?searchtype=author&query=Li,+C">Chao Li</a><sup><span>3</span></sup>
 <a href="https://arxiv.org/search/cs?searchtype=author&query=Yan,+Q">Qingsen Yan</a><sup><span>2</span></sup>
+
 <a href="https://arxiv.org/search/cs?searchtype=author&query=Zhao,+C">Chunxia Zhao</a><sup><span>1</span></sup>
 <a href="https://arxiv.org/search/cs?searchtype=author&query=Zhang,+H">Haokui Zhang</a><sup><span>2,🌟,4</span></sup>
 <a href="https://arxiv.org/search/cs?searchtype=author&query=Xiao,+R">Rong Xiao</a><sup><span>4</span></sup>
@@ -22,10 +23,11 @@ This repository contains the official implementation of [OVA-DETR](https://arxiv
 \* Equal contribution 🌟 Project lead 📧 Corresponding author
 </div>
 
-<sup>1</sup> Nanjing University of Science and Technology,  <sup>3 </sup>Zhejiang Lab  
-
-<sup>2</sup> Northwestern Polytechnical University, <sup>4</sup>Intellifusion  <br><br>
-                                                                                       
+<div style="text-align: center;">
+    <sup>1</sup> Nanjing University of Science and Technology, <sup>3</sup> Zhejiang Lab<br>
+    <sup>2</sup> Northwestern Polytechnical University, <sup>4</sup> Intellifusion<br><br>
+</div>
+       
 
 ## Partial results
 
@@ -49,7 +51,7 @@ Qualitative results for zero-shot detection on the xView,DIOR,and DOTA datasets,
 ## Installation
 1. Clone the OVA-DETR repository.
 ```
-git clone git@github.com:GT-Wei/OVA-DETR.git
+git clone https://github.com/GT-Wei/OVA-DETR.git
 ```
 2. Clone the mmdetection repository (include RT-DETR cfw)
 ```
@@ -87,7 +89,7 @@ eg: CUDA_VISIBLE_DEVICES=0,1,2,3 ./tools/dist_test.sh configs/OVA_DETR/OVA_DETR_
 ```
 
 # Acknowledgement
-We extend our gratitude to the contributors for their integration of RT-DETR into the mmdetection framework, which has been crucial for our development. We implemented OVA-DETR based on their shared resources available at [mmdetection](https://github.com/flytocc/mmdetection).
+We are grateful to the contributors for their crucial integration of RT-DETR into the mmdetection framework. We implemented OVA-DETR based on their shared resources available at [mmdetection](https://github.com/flytocc/mmdetection).
 
 ```
 @article{wei2024ova,
