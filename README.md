@@ -1,32 +1,32 @@
-<div style="text-align: center;">
-  <h1 style="font-size: 48px; margin: 0;">OVA-DETR</h1>
-</div>
-This repository contains the official implementation of [OVA-DETR](https://arxiv.org/abs/2408.12246)  <br>
+<h1 align="center">OVA-DETR</h1>
 
-**[OVA-DETR: Open Vocabulary Aerial Object Detection Using Image-Text Alignment and Fusion](https://arxiv.org/abs/2408.12246)**
+<p>
+This repository contains the official implementation of <a href="https://arxiv.org/abs/2408.12246">OVA-DETR</a>
+</p>
 
-<div align="center">
-<br>
-<a href="https://arxiv.org/search/cs?searchtype=author&query=Wei,+G">Guoting Wei</a><sup><span>1,4,*</span></sup>, 
-<a href="https://arxiv.org/search/cs?searchtype=author&query=Yuan,+X">Xia Yuan</a><sup><span>1,*</span></sup>,
-<a href="https://arxiv.org/search/cs?searchtype=author&query=Liu,+Y">Yu Liu</a><sup><span>3,🌟</span></sup>,
-<a href="https://arxiv.org/search/cs?searchtype=author&query=Shang,+Z"> Zhenhao Shangu</a><sup><span>2</span></sup>,
-<a href="https://arxiv.org/search/cs?searchtype=author&query=Yao,+K">Kelu Yao</a><sup><span>3</span></sup>,
-<a href="https://arxiv.org/search/cs?searchtype=author&query=Li,+C">Chao Li</a><sup><span>3</span></sup>
-<a href="https://arxiv.org/search/cs?searchtype=author&query=Yan,+Q">Qingsen Yan</a><sup><span>2</span></sup>
+<h2 align="center"><a href="https://arxiv.org/abs/2408.12246">OVA-DETR: Open Vocabulary Aerial Object Detection Using Image-Text Alignment and Fusion</a></h2>
 
-<a href="https://arxiv.org/search/cs?searchtype=author&query=Zhao,+C">Chunxia Zhao</a><sup><span>1</span></sup>
-<a href="https://arxiv.org/search/cs?searchtype=author&query=Zhang,+H">Haokui Zhang</a><sup><span>2,🌟,4</span></sup>
-<a href="https://arxiv.org/search/cs?searchtype=author&query=Xiao,+R">Rong Xiao</a><sup><span>4</span></sup>
-</br>
+<p align="center">
+<a href="https://arxiv.org/search/cs?searchtype=author&query=Wei,+G">Guoting Wei</a><sup>1,4,*</sup>, 
+<a href="https://arxiv.org/search/cs?searchtype=author&query=Yuan,+X">Xia Yuan</a><sup>1,*</sup>,
+<a href="https://arxiv.org/search/cs?searchtype=author&query=Liu,+Y">Yu Liu</a><sup>3,🌟</sup>,
+<a href="https://arxiv.org/search/cs?searchtype=author&query=Shang,+Z">Zhenhao Shang</a><sup>2</sup>,
+<a href="https://arxiv.org/search/cs?searchtype=author&query=Yao,+K">Kelu Yao</a><sup>3</sup>,
+<a href="https://arxiv.org/search/cs?searchtype=author&query=Li,+C">Chao Li</a><sup>3</sup>
+<a href="https://arxiv.org/search/cs?searchtype=author&query=Yan,+Q">Qingsen Yan</a><sup>2</sup>,
+<a href="https://arxiv.org/search/cs?searchtype=author&query=Zhao,+C">Chunxia Zhao</a><sup>1</sup>
+<a href="https://arxiv.org/search/cs?searchtype=author&query=Zhang,+H">Haokui Zhang</a><sup>2,🌟,4</sup>
+<a href="https://arxiv.org/search/cs?searchtype=author&query=Xiao,+R">Rong Xiao</a><sup>4</sup>
+</p>
 
-\* Equal contribution 🌟 Project lead 📧 Corresponding author
-</div>
+<p align="center">
+* Equal contribution 🌟 Project lead 📧 Corresponding author
+</p>
 
-<div style="text-align: center;">
-    <sup>1</sup> Nanjing University of Science and Technology, <sup>3</sup> Zhejiang Lab<br>
-    <sup>2</sup> Northwestern Polytechnical University, <sup>4</sup> Intellifusion<br><br>
-</div>
+<p align="center">
+<sup>1</sup> Nanjing University of Science and Technology, <sup>3</sup> Zhejiang Lab<br>
+<sup>2</sup> Northwestern Polytechnical University, <sup>4</sup> Intellifusion<br><br>
+</p>
        
 
 ## Partial results
