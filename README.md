@@ -1,12 +1,31 @@
-# OVA-DETR
-
-This repository contains the official implementation of [OVA-DETR](https://arxiv.org/abs/2408.12246)
+<div style="text-align: center;">
+  <h1 style="font-size: 48px; margin: 0;">OVA-DETR</h1>
+</div>
+This repository contains the official implementation of [OVA-DETR](https://arxiv.org/abs/2408.12246)  <br>
 
 **[OVA-DETR: Open Vocabulary Aerial Object Detection Using Image-Text Alignment and Fusion](https://arxiv.org/abs/2408.12246)**
 
-[Guoting Wei](https://arxiv.org/search/cs?searchtype=author&query=Wei,+G), [Xia Yuan](https://arxiv.org/search/cs?searchtype=author&query=Yuan,+X), [Yu Liu](https://arxiv.org/search/cs?searchtype=author&query=Liu,+Y), [Zhenhao Shang](https://arxiv.org/search/cs?searchtype=author&query=Shang,+Z), [Kelu Yao](https://arxiv.org/search/cs?searchtype=author&query=Yao,+K), [Chao Li](https://arxiv.org/search/cs?searchtype=author&query=Li,+C), [Qingsen Yan](https://arxiv.org/search/cs?searchtype=author&query=Yan,+Q), [Chunxia Zhao](https://arxiv.org/search/cs?searchtype=author&query=Zhao,+C), [Haokui Zhang](https://arxiv.org/search/cs?searchtype=author&query=Zhang,+H), [Rong Xiao](https://arxiv.org/search/cs?searchtype=author&query=Xiao,+R)
+<div align="center">
+<br>
+<a href="https://arxiv.org/search/cs?searchtype=author&query=Wei,+G">Guoting Wei</a><sup><span>1,4,*</span></sup>, 
+<a href="https://arxiv.org/search/cs?searchtype=author&query=Yuan,+X">Xia Yuan</a><sup><span>1,*</span></sup>,
+<a href="https://arxiv.org/search/cs?searchtype=author&query=Liu,+Y">Yu Liu</a><sup><span>3,🌟</span></sup>,
+<a href="https://arxiv.org/search/cs?searchtype=author&query=Shang,+Z"> Zhenhao Shangu</a><sup><span>2</span></sup>,
+<a href="https://arxiv.org/search/cs?searchtype=author&query=Yao,+K">Kelu Yao</a><sup><span>3</span></sup>,
+<a href="https://arxiv.org/search/cs?searchtype=author&query=Li,+C">Chao Li</a><sup><span>3</span></sup>
+<a href="https://arxiv.org/search/cs?searchtype=author&query=Yan,+Q">Qingsen Yan</a><sup><span>2</span></sup>
+<a href="https://arxiv.org/search/cs?searchtype=author&query=Zhao,+C">Chunxia Zhao</a><sup><span>1</span></sup>
+<a href="https://arxiv.org/search/cs?searchtype=author&query=Zhang,+H">Haokui Zhang</a><sup><span>2,🌟,4</span></sup>
+<a href="https://arxiv.org/search/cs?searchtype=author&query=Xiao,+R">Rong Xiao</a><sup><span>4</span></sup>
+</br>
 
+\* Equal contribution 🌟 Project lead 📧 Corresponding author
+</div>
 
+<sup>1</sup> Nanjing University of Science and Technology,  <sup>3 </sup>Zhejiang Lab  
+
+<sup>2</sup> Northwestern Polytechnical University, <sup>4</sup>Intellifusion  <br><br>
+                                                                                       
 
 ## Partial results
 
