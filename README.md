@@ -10,8 +10,8 @@
 <a href="https://arxiv.org/search/cs?searchtype=author&query=Yan,+Q">Qingsen Yan</a><sup>2</sup>,
 <br>
 <a href="https://arxiv.org/search/cs?
-searchtype=author&query=Zhao,+C">Chunxia Zhao</a><sup>1</sup>
-<a href="https://arxiv.org/search/cs?searchtype=author&query=Zhang,+H">Haokui Zhang</a><sup>2,🌟,4</sup>
+searchtype=author&query=Zhao,+C">Chunxia Zhao</a><sup>1</sup>,
+<a href="https://arxiv.org/search/cs?searchtype=author&query=Zhang,+H">Haokui Zhang</a><sup>2,4,🌟</sup>
 <a href="https://arxiv.org/search/cs?searchtype=author&query=Xiao,+R">Rong Xiao</a><sup>4</sup>
 </p>
 
