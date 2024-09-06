@@ -17,10 +17,6 @@ model = dict(
                 type='BatchSyncRandomResize',
                 interval=1,
                 interpolations=['nearest', 'bilinear', 'bicubic', 'area'],
-                # random_sizes=[
-                #     480, 512, 544, 576, 608, 640, 640, 640, 672, 704, 736, 768,
-                #     800
-                # ]
                 random_sizes=[
                     800
                 ]
@@ -267,8 +263,6 @@ param_scheduler = [
 # USER SHOULD NOT CHANGE ITS VALUES.
 # base_batch_size = (4 GPUs) x (4 samples per GPU)
 auto_scale_lr = dict(base_batch_size=16)
-# base_batch_size = (8 GPUs) x (4 samples per GPU)
-# auto_scale_lr = dict(base_batch_size=32)
 
 custom_hooks = [
     dict(
