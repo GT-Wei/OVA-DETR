@@ -419,7 +419,7 @@ param_scheduler = [
 
 # NOTE: `auto_scale_lr` is for automatically scaling LR,
 # USER SHOULD NOT CHANGE ITS VALUES.
-# base_batch_size = (4 GPUs) x (4 samples per GPU)
+# base_batch_size = (4 GPUs) x (2 samples per GPU)
 auto_scale_lr = dict(base_batch_size=8)
 
 custom_hooks = [
