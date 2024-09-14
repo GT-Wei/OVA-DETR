@@ -3,7 +3,7 @@
 <p align="center">
 <a href="https://arxiv.org/search/cs?searchtype=author&query=Wei,+G">Guoting Wei</a><sup>1,4,*</sup>, 
 <a href="https://arxiv.org/search/cs?searchtype=author&query=Yuan,+X">Xia Yuan</a><sup>1,*</sup>,
-<a href="https://arxiv.org/search/cs?searchtype=author&query=Liu,+Y">Yu Liu</a><sup>3,🌟</sup>,
+<a href="https://arxiv.org/search/cs?searchtype=author&query=Liu,+Y">Yu Liu</a><sup>3,📧</sup>,
 <a href="https://arxiv.org/search/cs?searchtype=author&query=Shang,+Z">Zhenhao Shang</a><sup>2</sup>,
 <a href="https://arxiv.org/search/cs?searchtype=author&query=Yao,+K">Kelu Yao</a><sup>3</sup>,
 <a href="https://arxiv.org/search/cs?searchtype=author&query=Li,+C">Chao Li</a><sup>3</sup>
@@ -11,14 +11,14 @@
 <br>
 <a href="https://arxiv.org/search/cs?
 searchtype=author&query=Zhao,+C">Chunxia Zhao</a><sup>1</sup>,
-<a href="https://arxiv.org/search/cs?searchtype=author&query=Zhang,+H">Haokui Zhang</a><sup>2,4,🌟</sup>,
+<a href="https://arxiv.org/search/cs?searchtype=author&query=Zhang,+H">Haokui Zhang</a><sup>2,4,📧</sup>,
 <a href="https://arxiv.org/search/cs?searchtype=author&query=Xiao,+R">Rong Xiao</a><sup>4</sup>
 </p>
 
 <p align="center">
-* Equal contribution 🌟 Project lead 📧 Corresponding author
+* Equal contribution 📧 Corresponding author
 </p>
-
+<!-- 🌟 Project lead  -->
 <p align="center">
 <sup>1</sup> Nanjing University of Science and Technology, <sup>3</sup> Zhejiang Lab<br>
 <sup>2</sup> Northwestern Polytechnical University, <sup>4</sup> Intellifusion<br><br>
