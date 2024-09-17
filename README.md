@@ -23,7 +23,6 @@ searchtype=author&query=Zhao,+C">Chunxia Zhao</a><sup>1</sup>,
 <sup>1</sup> Nanjing University of Science and Technology, <sup>3</sup> Zhejiang Lab<br>
 <sup>2</sup> Northwestern Polytechnical University, <sup>4</sup> Intellifusion<br><br>
 </p>
-       
 <!-- <p>
 This repository contains the official implementation of <a href="https://arxiv.org/abs/2408.12246">OVA-DETR</a>
 </p> -->
@@ -31,21 +30,47 @@ This repository contains the official implementation of <a href="https://arxiv.o
 
 ## Partial results
 
-Figure 1: ![](./images/Figure-1.jpg)
+<img src="./images/Figure-1.jpg" alt="description" width="60%">
 
-Compared OVA-DETR with recently advanced open-vocabulary detectors in terms of speed and recall. All methods are evaluated on DIOR dataset under zero shot detection. The inference speeds were measured on a 3090 GPU by default, except that DescReg was measured on a 4090 GPU
+Figure 1: Compared OVA-DETR with recently advanced open-vocabulary detectors in terms of speed and recall. All methods are evaluated on DIOR dataset under zero shot detection. The inference speeds were measured on a 3090 GPU by default, except that DescReg was measured on a 4090 GPU <br>
 
+<br>
 
+<img src="./images/Figure-2.jpg" alt="description" width="80%">
 
-Figure 2: ![](./images/Figure-2.jpg)
+Figure 2: Overall architecture of OVA-DETR.The improvements of OVA-DETR can be summarized into two main components: the Image-Text Alignment and the Bidirectional Vision-Language Fusion.<br>
 
-Overall architecture of OVA-DETR.The improvements of OVA-DETR can be summarized into two main components: the Image-Text Alignment and the Bidirectional Vision-Language Fusion.
+<br>
 
+<img src="./images/Figure-5.jpg" alt="description" width="80%">
 
+Figure 5:Qualitative results for zero-shot detection on the xView,DIOR,and DOTA datasets, focusing on novel classes.The green rectangles represent predicted bounding boxes, while red rectangles denote ground truth bounding boxes.<br>
 
-Figure 5:![](./images/Figure-5.jpg) 
+<br>
 
-Qualitative results for zero-shot detection on the xView,DIOR,and DOTA datasets, focusing on novel classes.The green rectangles represent predicted bounding boxes, while red rectangles denote ground truth bounding boxes.
+<img src="./images/table1.png" alt="description" width="100%"><br>
+
+<img src="./images/table2.png" alt="description" width="100%">
+
+<br>
+
+<img src="./images/table3.png" alt="description" width="100%">
+
+<br>
+
+<img src="./images/table4.png" alt="description" width="75%">
+
+<br>
+
+<img src="./images/table5.png" alt="description" width="75%">
+
+<br>
+
+<img src="./images/table6.png" alt="description" width="100%">
+
+<br>
+
+<img src="./images/table7.png" alt="description" width="80%">
 
 
 ## Installation
@@ -89,6 +114,7 @@ eg: CUDA_VISIBLE_DEVICES=0,1,2,3 ./tools/dist_test.sh configs/OVA_DETR/OVA_DETR_
 ```
 
 ## Acknowledgement
+
 We are grateful to the contributors for their crucial integration of RT-DETR into the mmdetection framework. We implemented OVA-DETR based on their shared resources available at [mmdetection](https://github.com/flytocc/mmdetection).
 
 ```
@@ -103,4 +129,3 @@ We are grateful to the contributors for their crucial integration of RT-DETR int
 
 
 
- 
